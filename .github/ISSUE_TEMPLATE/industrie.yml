@@ -22,9 +22,9 @@ body:
       label: Fehlerkategorie
       description: Wählen Sie die Fehlerkategorie Ihres Änderungsvorschlags aus 
       options:
-        - Alles auswählen
         - FF
         - M
+        - R
       default: 0
     validations:
       required: true
