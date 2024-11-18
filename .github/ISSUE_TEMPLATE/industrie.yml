@@ -38,6 +38,7 @@ body:
         - ePA
         - E-Rezept
         - HCC
+        - KIM
         - TI-Messenger
       default: 0
     validations:
