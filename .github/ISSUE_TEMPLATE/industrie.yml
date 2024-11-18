@@ -35,8 +35,10 @@ body:
       description: Wählen Sie das Thema Ihres Änderungsvorschlags aus 
       options:
         - Alles auswählen
-        - betrifft ePA
-        - betrifft E-Rezept
+        - ePA
+        - E-Rezept
+        - HCC
+        - TI-Messenger
       default: 0
     validations:
       required: false
