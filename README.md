@@ -1,0 +1,9 @@
+Das Dokument gemSpec_HCC_0.9.0 unter der URL https://gemspec.gematik.de/prereleases/Dev_HCC/ ist ein Erstentwurf zu einer Spezifikation für die Lösung "Healthcare Confidential Computing" (HCC). HCC realisiert das mit der "Vertrauenswürdigen Ausführungsumgebung" (VAU) verbundene Sicherheitsniveau der TI für die Verarbeitung personenbezogener medizinischer Daten in Infrastrukturen mit dem Charakter einer "Cloud".
+ 
+Die Erstveröffentlichung umfasst im Wesentlichen den konzeptionellen Teil. Die Anforderungslage ist noch unvollständig. Bestimmte formale Aspekte einer gematik Spezifikation sind bisher nicht erfüllt. Eine zukünftige Version der Spezifikation kann wesentlich geändert sein, einen erheblich größeren Umfang aufweisen und Teile in andere Spezifikationen oder Dokumente der gematik auslagern.
+ 
+Primäres Ziel der Veröffentlichung ist der Beginn eines Austauschs mit potenziellen HCC-Anbietern, Gutachtern und Technologie- und Lösungsanbietern für Confidential Computing. Die gematik erbittet sich Hinweise und Anregungen, die sie bei der Erstellung einer ausgereiften, vollständigen und umsetzbaren Spezifikation unterstützen. Für einige Schnittstellen müssen interoperable technische Ausprägungen festgelegt werden, die auf Vorschlägen aus der Industrie aufbauen sollen.
+
+Wir laden Sie herzlich ein, Ihre Anmerkungen zu unserem Dokument zu teilen:
+Sie können an jeder Kapitelüberschrift oder AFO Ihre Anmerkungen hinterlassen - oder allgemeine Anmerkungen an jeder beliebigen Stelle anbringen. Klicken Sie einfach auf die Sprechblase vor der Überschrift oder der AFO, um einen GitHub-Issue zu erstellen. Die Referenz und der Backlink sind bereits für Sie vorbefüllt.
+(Hinweis: Bitte beachten Sie, dass hierfür ein GitHub-Account erforderlich ist; dieser Prozess befindet sich derzeit in einem Testbetrieb / Proof of Concept.)
